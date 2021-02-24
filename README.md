@@ -1,3 +1,11 @@
+# A app of chronometer with React !
+
+Using this app for to meditate, chronometer matches of soccer and more then.
+In future, the goal is:
+* Put a timer;
+* Put a newsletter about productivity;
+* Optimize app for smartphone;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
